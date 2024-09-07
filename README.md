@@ -1,7 +1,7 @@
 ## Boas vindas ao meu perfil 🖤
 
 Meu nome é Ellen Incerpi, tenho 19 anos, moro no interior de São Paulo e sou apaixonada por tecnologia. Estou focada em me especializar em Desenvolvimento Web, utilizando JavaScript, CSS e HTML. Atualmente, estou expandindo meus conhecimentos por meio de cursos na Alura e desenvolvendo projetos próprios para aplicar o que estou aprendendo.
-
+##
 
 
 <div align="center">
@@ -23,7 +23,7 @@ Meu nome é Ellen Incerpi, tenho 19 anos, moro no interior de São Paulo e sou a
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
-  
+
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
