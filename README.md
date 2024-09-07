@@ -1,18 +1,9 @@
 ## Boas vindas ao meu perfil 🖤
 
 Meu nome é Ellen Incerpi, tenho 19 anos, moro no interior de São Paulo e sou apaixonada por tecnologia. Estou focada em me especializar em Desenvolvimento Web, utilizando JavaScript, CSS e HTML. Atualmente, estou expandindo meus conhecimentos por meio de cursos na Alura e desenvolvendo projetos próprios para aplicar o que estou aprendendo.
-##
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EllenIncerpi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EllenIncerpi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 
 
-
- 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
@@ -29,8 +20,31 @@ Meu nome é Ellen Incerpi, tenho 19 anos, moro no interior de São Paulo e sou a
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">    
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-   
-  </div>
+
+##
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EllenIncerpi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EllenIncerpi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+##
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+ 
+##
+
+  ### Profile views counter 👁️‍🗨️
+[![EllenIncerpi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/EllenIncerpi)
+
   
  
 
