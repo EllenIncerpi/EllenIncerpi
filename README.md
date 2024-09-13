@@ -1,6 +1,8 @@
-## Boas vindas ao meu perfil 🖤
+## Welcome To My Profile 🖤
 
 Meu nome é Ellen Incerpi, tenho 19 anos, moro no interior de São Paulo e sou apaixonada por tecnologia. Estou focada em me especializar em Desenvolvimento Web, utilizando JavaScript, CSS e HTML. Atualmente, estou expandindo meus conhecimentos por meio de cursos na Alura e desenvolvendo projetos próprios para aplicar o que estou aprendendo.
+
+My name is Ellen Incerpi, I'm 19 years old, I live in the interior of São Paulo and I'm passionate about technology. I am focused on specializing in Web Development, using JavaScript, CSS and HTML. Currently, I am expanding my knowledge through courses at Alura and developing my own projects to apply what I am learning.
 
 
 
