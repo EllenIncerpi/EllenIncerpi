@@ -3,7 +3,6 @@
 Olá, meu nome é Ellen Incerpi, tenho 19 anos e resido no interior de São Paulo. Desde a infância, sempre fui apaixonada por tecnologia e pelo universo dos games, interesses que me acompanham até hoje e moldaram minha trajetória.
 Atualmente, estou iniciando minha primeira graduação em Análise e Desenvolvimento de Sistemas, um curso com duração de dois anos e meio, que representa um grande passo na realização dos meus sonhos profissionais. Paralelamente, busco constantemente expandir meus conhecimentos por meio de cursos na plataforma Alura, além de desenvolver projetos próprios que me permitem colocar em prática tudo o que estou aprendendo.
 Com dedicação, curiosidade e entusiasmo, sigo trilhando meu caminho no mundo da tecnologia, sempre em busca de aprendizado e crescimento.
-
 ##
 Hello, my name is Ellen Incerpi, I'm 19 years old and I live in the interior of São Paulo. Since childhood, I have always been passionate about technology and the world of games, interests that remain with me to this day and shaped my trajectory.
 I am currently starting my first degree in Systems Analysis and Development, a course lasting two and a half years, which represents a big step in realizing my professional dreams. At the same time, I constantly seek to expand my knowledge through courses on the Alura platform, in addition to developing my own projects that allow me to put everything I am learning into practice.
