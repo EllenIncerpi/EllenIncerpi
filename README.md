@@ -40,10 +40,24 @@ With dedication, curiosity and enthusiasm, I continue to make my way in the worl
         <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
       <br>CSS
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
 <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap"/>
       <br>Bootstrap
-    </td>           
+    </td>  
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
  </tr>
 </table>
 <br><br>
