@@ -13,22 +13,41 @@ I am currently starting my first degree in Systems Analysis and Development, a c
 With dedication, curiosity and enthusiasm, I continue to make my way in the world of technology, always looking for learning and growth.
 
 ##
-# 💻 My favorite tools and technologies
+
+<div style="text-align: center;" align="center">
+  <h3> 💻 My favorite tools and technologies </h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VsCode"/>
       <br>VsCode
     </td>
-    
-  
-              
+
+<td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="VsCode"/>
+      <br>Github
+    </td>
+
+ <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+<td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+      <br>HTML5
+    </td>
+<td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
+      <br>CSS
+    </td>
+<td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap"/>
+      <br>Bootstrap
+    </td>           
  </tr>
 </table>
 <br><br>
-
-
-  
+ 
 ##
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
@@ -44,11 +63,6 @@ With dedication, curiosity and enthusiasm, I continue to make my way in the worl
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
-
-
 
 ##
 
